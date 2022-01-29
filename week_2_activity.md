@@ -1,6 +1,6 @@
 PUBH 7462 Week 2 Activity
 ================
-Framework: Quinton Neville, Modified by: Chris Wojan
+Framework: Quinton Neville; Modified by: Chris Wojan
 1/28/22
 
 -   [Instructions](#instructions)

@@ -1,6 +1,6 @@
 ---
 title: "PUBH 7462 Week 2 Activity"
-author: 'Framework: Quinton Neville, Modified by: Chris Wojan'
+author: 'Framework: Quinton Neville; Modified by: Chris Wojan'
 date: "1/28/22"
 output: 
   github_document:
